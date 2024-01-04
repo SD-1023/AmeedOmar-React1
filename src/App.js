@@ -13,12 +13,9 @@ function App() {
   return (
     <FavouriteProvider>
       <BrowserRouter>
-        <Routes>
-          <Route path="AmeedOmar-React1/" element={<Home />} />
-          <Route
-            path="AmeedOmar-React1/react-gh-pages/details"
-            element={<Details />}
-          />
+        <Routes path="AmeedOmar-React1">
+          <Route path="/" element={<Home />} />
+          <Route path="/details" element={<Details />} />
         </Routes>
       </BrowserRouter>
     </FavouriteProvider>
