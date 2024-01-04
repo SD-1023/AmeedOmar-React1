@@ -15,11 +15,11 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route
-            path="https://sd-1023.github.io/AmeedOmar-React1/"
+            path="sd-1023.github.io/AmeedOmar-React1/"
             element={<Home />}
           />
           <Route
-            path="https://sd-1023.github.io/AmeedOmar-React1/details"
+            path="sd-1023.github.io/AmeedOmar-React1"
             element={<Details />}
           />
         </Routes>
