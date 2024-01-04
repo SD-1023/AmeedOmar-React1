@@ -12,12 +12,13 @@ function App() {
   const { isFavOpen } = useFavourites();
   return (
     <FavouriteProvider>
-      <BrowserRouter>
+      <Home />
+      {/* <BrowserRouter>
         <Routes>
           <Route path="react-gh-pages/" element={<Home />} />
           <Route path="/details" element={<Details />} />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </FavouriteProvider>
   );
 }
