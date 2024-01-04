@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AmeedOmar-React1/static/css/main.8b3ba3f1.css",
-    "main.js": "/AmeedOmar-React1/static/js/main.7224b371.js",
+    "main.js": "/AmeedOmar-React1/static/js/main.41a0ab8a.js",
     "static/js/787.ce1cecab.chunk.js": "/AmeedOmar-React1/static/js/787.ce1cecab.chunk.js",
     "static/media/analytics.png": "/AmeedOmar-React1/static/media/analytics.7e81c6ec23532162f2ea.png",
     "static/media/angular.png": "/AmeedOmar-React1/static/media/angular.fe7fe0b7dad8f1ba6bbd.png",
@@ -41,11 +41,11 @@
     "static/media/react.webp": "/AmeedOmar-React1/static/media/react.55afe679a76823cdda39.webp",
     "index.html": "/AmeedOmar-React1/index.html",
     "main.8b3ba3f1.css.map": "/AmeedOmar-React1/static/css/main.8b3ba3f1.css.map",
-    "main.7224b371.js.map": "/AmeedOmar-React1/static/js/main.7224b371.js.map",
+    "main.41a0ab8a.js.map": "/AmeedOmar-React1/static/js/main.41a0ab8a.js.map",
     "787.ce1cecab.chunk.js.map": "/AmeedOmar-React1/static/js/787.ce1cecab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b3ba3f1.css",
-    "static/js/main.7224b371.js"
+    "static/js/main.41a0ab8a.js"
   ]
 }
