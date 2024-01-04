@@ -14,8 +14,14 @@ function App() {
     <FavouriteProvider>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="details" element={<Details />} />
+          <Route
+            path="https://sd-1023.github.io/AmeedOmar-React1/"
+            element={<Home />}
+          />
+          <Route
+            path="https://sd-1023.github.io/AmeedOmar-React1/details"
+            element={<Details />}
+          />
         </Routes>
       </BrowserRouter>
     </FavouriteProvider>
