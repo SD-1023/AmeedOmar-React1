@@ -12,8 +12,8 @@ function App() {
   const { isFavOpen } = useFavourites();
   return (
     <FavouriteProvider>
-      <BrowserRouter>
-        <Routes path="AmeedOmar-React1">
+      <BrowserRouter basename="/AmeedOmar-React1">
+        <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/details" element={<Details />} />
         </Routes>
