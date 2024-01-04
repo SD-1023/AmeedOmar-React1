@@ -12,7 +12,8 @@ function App() {
   const { isFavOpen } = useFavourites();
   return (
     <FavouriteProvider>
-      <BrowserRouter>
+      <Home />
+      {/* <BrowserRouter>
         <Routes>
           <Route
             path="sd-1023.github.io/AmeedOmar-React1/"
@@ -23,7 +24,7 @@ function App() {
             element={<Details />}
           />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </FavouriteProvider>
   );
 }
